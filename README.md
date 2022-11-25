@@ -1,1 +1,1 @@
-# This repo contains kaggle submissions I've made
+# Code used for Kaggle Competions
